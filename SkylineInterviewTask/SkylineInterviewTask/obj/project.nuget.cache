@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4fD9H9BVKsP2xFYSa/0H/75DWoAJ/cS+LMycudkd1YlHU4juvKgiSWQS3f7OT4YrqCruCr2tdTmCz5tWWwNgDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emanh\\source\\repos\\SkylineInterviewTask\\SkylineInterviewTask\\SkylineInterviewTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emanh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\emanh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\emanh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\emanh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\emanh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

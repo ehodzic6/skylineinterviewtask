@@ -1,0 +1,17 @@
+C:\Users\emanh\source\repos\SkylineInterviewTask\SkylineInterviewTask\bin\Debug\net6.0\SkylineInterviewTask.exe
+C:\Users\emanh\source\repos\SkylineInterviewTask\SkylineInterviewTask\bin\Debug\net6.0\SkylineInterviewTask.deps.json
+C:\Users\emanh\source\repos\SkylineInterviewTask\SkylineInterviewTask\bin\Debug\net6.0\SkylineInterviewTask.runtimeconfig.json
+C:\Users\emanh\source\repos\SkylineInterviewTask\SkylineInterviewTask\bin\Debug\net6.0\SkylineInterviewTask.dll
+C:\Users\emanh\source\repos\SkylineInterviewTask\SkylineInterviewTask\bin\Debug\net6.0\SkylineInterviewTask.pdb
+C:\Users\emanh\source\repos\SkylineInterviewTask\SkylineInterviewTask\obj\Debug\net6.0\SkylineInterviewTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanh\source\repos\SkylineInterviewTask\SkylineInterviewTask\obj\Debug\net6.0\SkylineInterviewTask.AssemblyInfoInputs.cache
+C:\Users\emanh\source\repos\SkylineInterviewTask\SkylineInterviewTask\obj\Debug\net6.0\SkylineInterviewTask.AssemblyInfo.cs
+C:\Users\emanh\source\repos\SkylineInterviewTask\SkylineInterviewTask\obj\Debug\net6.0\SkylineInterviewTask.csproj.CoreCompileInputs.cache
+C:\Users\emanh\source\repos\SkylineInterviewTask\SkylineInterviewTask\obj\Debug\net6.0\SkylineInterviewTask.dll
+C:\Users\emanh\source\repos\SkylineInterviewTask\SkylineInterviewTask\obj\Debug\net6.0\refint\SkylineInterviewTask.dll
+C:\Users\emanh\source\repos\SkylineInterviewTask\SkylineInterviewTask\obj\Debug\net6.0\SkylineInterviewTask.pdb
+C:\Users\emanh\source\repos\SkylineInterviewTask\SkylineInterviewTask\obj\Debug\net6.0\SkylineInterviewTask.genruntimeconfig.cache
+C:\Users\emanh\source\repos\SkylineInterviewTask\SkylineInterviewTask\obj\Debug\net6.0\ref\SkylineInterviewTask.dll
+C:\Users\emanh\source\repos\SkylineInterviewTask\SkylineInterviewTask\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\emanh\source\repos\SkylineInterviewTask\SkylineInterviewTask\obj\Debug\net6.0\SkylineInterviewTask.csproj.AssemblyReference.cache
+C:\Users\emanh\source\repos\SkylineInterviewTask\SkylineInterviewTask\obj\Debug\net6.0\SkylineI.428DD4BB.Up2Date
